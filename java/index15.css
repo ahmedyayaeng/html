@@ -47,31 +47,16 @@ body {
  }
  
  .formButton:hover {
-    background-color: #27ae60;
-   color:#ffffff;
- }
+   background-color: #27ae60;
+  color:#ffffff;
+}
+
+.formButton:active {
+   position:relative;
+   top:3px;
+}
+
+input:focus {
+  outline: none;
+}
  
- .formButton:active {
-    position:relative;
-    top:3px;
- }
- 
- input:focus {
-   outline: none;
- }
- 
- ::-webkit-input-placeholder {
-    color: #ecf0f1;
- }
- 
- :-moz-placeholder {  
-    color: #ecf0f1;  
- }
- 
- ::-moz-placeholder {  
-    color: #ecf0f1;  
- }
- 
- :-ms-input-placeholder {  
-    color: #ecf0f1;  
- }
