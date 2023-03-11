@@ -1,0 +1,22 @@
+ body{
+    background-image: url('pngtree-border-cartoon-trees-cute-minimalistic-border-poster-background-picture-image_1498219.jpg'); 
+    background-repeat:no-repeat ;
+    background-size: 100%;
+} 
+.jumbotron{
+    background-color:rgba(244, 255, 254, 0.249);
+}
+img{
+    width: 500px;
+    height: 500px;
+    margin-left: 200px;
+    margin-bottom:100px ;
+}
+.r{
+    margin-right: 10px;
+}
+.navbar-brand{
+    margin-left: 50px;
+}
+
+

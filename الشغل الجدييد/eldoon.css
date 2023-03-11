@@ -1,0 +1,63 @@
+body{
+    background-image:url('صور-فانوس-رمضان-2020-خلفيات-فوانيس-رمضانية-17.jpg');
+    background-size: contain;
+    
+    
+}
+
+
+.q{
+    font-size: 18px;
+    margin-left: 390px;
+    font-size: 23px;
+}
+.y{
+    font-size: 26px;
+    margin-left: 40px;
+}
+.e{
+    margin-right: 80px;
+    margin-top: 30px;
+}
+.btn{
+    border-radius: 20px;
+    width: 130px;
+
+}
+.u{
+    margin-left: 100px;
+    margin-top: 130px;
+    color: rgb(255, 223, 205);
+
+
+}
+p{
+    color: rgb(255, 223, 205);
+    font-family:   sans-serif;
+    font-size: 35px;
+
+}
+.i{
+    margin-bottom: 10px;
+    font-size: 20px;
+
+}
+
+.j{
+    margin-bottom:10px  ;
+    margin-right: 550px ;
+    font-size: 20px;
+
+}
+
+.l{
+    font-size: 20px;
+
+}
+.b{
+
+    border-radius: 10px;
+}
+.button{
+    color: chocolate;
+}
