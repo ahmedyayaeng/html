@@ -62,5 +62,30 @@
 .card{
     border: none;
 }
+.border{
+   background-color: #a1a1a1;
+   border-radius: 20px;
+    width: 60%;
+    height: 250px;
+    margin-left: 20%;
+    font-size: 40px;
+}
 
-
+.text-center{
+    margin-top: 40px;
+}
+.ahh{
+    color: #ffffff;
+    background-color: #ff63c0;
+    border-radius: 30px;
+    margin-left: 40%;
+    margin-top: 10px;
+    width: 170px;
+    height: 50px;
+    font-size: 20px;
+}
+.tex{
+    font-size: 22px;
+    margin-left: 290px;
+    margin-top: 10px;
+}
